@@ -1,0 +1,10 @@
+main: net.electronexchange.plugins.mineplotter.MinePlotter
+name: MinePlotter
+version: 1.0.0
+author: bcbwilla
+website: electronexchange.net
+description: plot stuff in your world
+commands:
+    mp:
+        description: 
+        usage:
